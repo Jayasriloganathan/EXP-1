@@ -48,4 +48,4 @@ High-Level Overview:
 
 
 # Result:
-
+Smart contract for issuing and verifying certificate on Ethereum is successfully executed.
